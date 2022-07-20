@@ -8,7 +8,7 @@ Then, i made few libraries for the minecraft community, and decided to stop plug
 ### Technologies and languages i've used :
 languages: 
 - Java -> good level
-- Scala -> intermediate, still need to use FP for real
+- Scala 2 -> intermediate, still need to use FP for real
 - html/js/css -> learning/using for [The Linkit Wiki](github.com/Override-6/Linkit-Wiki) microsite
 - Python -> beginner, only used for school projects but i already had the dev concepts comming from java/scala
 - C++ -> beginner, only used for creating java native libraries for the Linkit Project
