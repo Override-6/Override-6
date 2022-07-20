@@ -3,7 +3,7 @@
 ## A Passionate Young Developper
 
 Started developpement on 2020, i began as a minecraft plugin developper for my minecraft server (which had a big flop!)  
-Then, i made few libraries for the minecraft community, and decided to stop making plugins and go out of minecraft environment, in order to create more intrusting and useful projects.
+Then, i made few libraries for the minecraft community, and decided to stop plugin development and go out of minecraft environment, in order to create more intrusting and useful projects.
 
 ### Technologies and languages i've used :
 languages: 
