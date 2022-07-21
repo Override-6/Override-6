@@ -36,7 +36,8 @@ think big, this project started on august 2020, and, even if it is not stable, i
 This project is overall a learning excuse.  
 
 This project still very serious though, and i'm making my possible to make a good framework, and try to stabilize it as possible.  
-Wana contribute ? go to the [contribute page](https://override-6.github.io/Linkit/contribute) to see what you could do for the Linkit project, and find what you can do.
+#### Wana contribute ? *
+Go to the [contribute page](https://override-6.github.io/Linkit/contribute) to see what you could do for the Linkit project, and find what you can do.
 
 <!--
 **Override-6/Override-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
