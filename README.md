@@ -2,7 +2,7 @@
 
 ## A Passionate 18yo Developper
 
-Started developpement on 2020, i began as a minecraft plugin developper for my minecraft server (which had a big flop!)  
+Started developpement on 2020, i began as a minecraft plugin developper for my minecraft server (which was a big flop!)  
 Then, i made few libraries for the minecraft community, and decided to stop plugin development and go out of the minecraft environment, in order to create more intrusting and useful projects. (such as Linkit, which is my first ambitious project !)
 
 ### Technologies and languages i've used :
