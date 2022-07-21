@@ -2,19 +2,19 @@
 
 ## A Passionate 18yo Developper
 
-Started developpement on 2020, i began as a minecraft plugin developper for my minecraft server (which was a big flop!)  
-Then, i made few libraries for the minecraft community, and decided to stop plugin development and go out of the minecraft environment, in order to create more intrusting and useful projects. (such as Linkit, which is my first ambitious project !)
+Started developpement on 2020, I began as a minecraft plugin developper for my minecraft server (which was a big flop!)  
+Then, I made few libraries for the minecraft community, and decided to stop plugin development and go out of the minecraft environment, in order to create more intrusting and useful projects. (such as Linkit, which is my first ambitious project !)
 
 ### Technologies and languages i've used :
-languages: 
-- Java -> good level
-- Scala 2 -> intermediate, still need to use FP for real
-- html/js/css -> learning/using for [The Linkit Wiki](github.com/Override-6/Linkit-Wiki) microsite
-- Python -> beginner, only used for school projects but i already had the dev concepts comming from java/scala
-- C++ -> beginner, only used for creating java native libraries for the Linkit Project
-- C# -> only touched once for an unfinished web app project, but looked familiar!
+Languages: 
+- Java -> Good level
+- Scala 2 -> Intermediate, still need to use FP for real
+- html/js/css -> Learning/using for [The Linkit Wiki](github.com/Override-6/Linkit-Wiki) microsite
+- Python -> Beginner, only used for school projects but i already had the dev concepts comming from java/scala
+- C++ -> Beginner, only used for creating java native libraries for the Linkit Project
+- C# -> Only touched once for an unfinished web app project, but looked familiar!
 
-technologies: 
+Technologies: 
 - Gradle, Maven
 - MySql, MySql Connector (JDBC)
 - Jetbrains IDEs (IJ pro, WebStorm, CLion)
@@ -36,7 +36,8 @@ think big, this project started on august 2020, and, even if it is not stable, i
 This project is overall a learning excuse.  
 
 This project still very serious though, and i'm making my possible to make a good framework, and try to stabilize it as possible.  
-### Wana contribute ?
+
+### Do you want to contribute ?
 Go to the [contribute page](https://override-6.github.io/Linkit/contribute) to see what you could do for the Linkit project, and find what you can do.
 
 <!--
