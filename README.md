@@ -10,6 +10,7 @@ Languages:
 - Java -> Good level
 - Scala 2 -> Intermediate, still need to use FP for real
 - html/js/css -> Learning/using for [The Linkit Wiki](github.com/Override-6/Linkit-Wiki) microsite
+- SQL -> Learning from school and by myself
 - Python -> Beginner, only used for school projects but i already had the dev concepts comming from java/scala
 - C++ -> Beginner, only used for creating java native libraries for the Linkit Project
 - C# -> Only touched once for an unfinished web app project, but looked familiar!
