@@ -13,7 +13,6 @@ Languages:
 - SQL -> Learning from school and by myself
 - Python -> Beginner, only used for school projects but i already had the dev concepts comming from java/scala
 - C++ -> Beginner, only used for creating java native libraries for the Linkit Project
-- C# -> Only touched once for an unfinished web app project, but looked familiar!
 
 Technologies: 
 - Gradle, Maven
