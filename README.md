@@ -11,8 +11,8 @@ Languages:
 - Scala 2 -> Intermediate, still need to use FP for real
 - html/js/css -> Learning/using for [The Linkit Wiki](github.com/Override-6/Linkit-Wiki) microsite
 - SQL -> Learning from school and by myself
-- Python -> Beginner, only used for school projects but i already had the dev concepts comming from java/scala
-- C++ -> Beginner, only used for creating java native libraries for the Linkit Project
+- Python -> Only using for school projects
+- C/C++ -> Bases only, learning from school
 
 Technologies: 
 - Gradle, Maven
@@ -39,18 +39,3 @@ This project still very serious though, and i'm making my possible to make a goo
 
 ### Do you want to contribute ?
 Go to the [contribute page](https://override-6.github.io/Linkit/contribute) to see what can interest you in contributing for the project, and find what you can do.
-
-<!--
-**Override-6/Override-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--  I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
