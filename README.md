@@ -16,7 +16,7 @@ Languages:
 
 Technologies: 
 - Gradle, Maven
-- MySql, MySql Connector (JDBC)
+- MySql, SQLite over JDBC
 - Jetbrains IDEs (IJ pro, WebStorm, CLion)
 - Visual Studio
 - Java Native Interface
