@@ -21,7 +21,7 @@ Technologies:
 - Java Native Interface
 - Android Studio
 - git/github (of course)
-- Github Actions, CI/CD
+- Github Actions, Drone (CI/CD)
 - JUnit tests, Mockito
 - JavaFX
 - JProfiler, basic profiling
