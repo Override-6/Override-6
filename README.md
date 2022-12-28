@@ -18,7 +18,6 @@ Technologies:
 - Gradle, Maven
 - MySql, SQLite over JDBC
 - Jetbrains IDEs (IJ pro, WebStorm, CLion)
-- Visual Studio
 - Java Native Interface
 - Android Studio
 - git/github (of course)
