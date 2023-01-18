@@ -12,6 +12,3 @@ think big, this project started on august 2020, and, even if it is not stable, i
 This project is overall a learning excuse.  
 
 This project still very serious though, and i'm making my possible to make a good framework, and try to stabilize it as possible.  
-
-### Do you want to contribute ?
-Go to the [contribute page](https://override-6.github.io/Linkit/contribute) to see what can interest you in contributing for the project, and find what you can do.
